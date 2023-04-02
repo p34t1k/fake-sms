@@ -8,7 +8,8 @@
 
      
 # Note:-
-     If ur message is not sent then use some valid vpn like nordvpn etc and make sure you are connected to some europe networks.
+     If ur message is not sent then use some valid vpn like nordvpn etc and
+     make sure you are connected to some europe networks.
  
 # Requirements:
       1. Make sure python3 is installed in windows Or in Linux
